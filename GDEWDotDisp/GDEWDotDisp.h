@@ -1,8 +1,7 @@
 #ifndef __GDEWDOTDISP_H
 #define __GDEWDOTDISP_H
 
-#include "Display_EPD_W21_spi.h"
-#include "Display_EPD_W21.h"
+
 #include "GDESPI.h"
 
 #define GDEW_PAN_STG_CMD 0x00
