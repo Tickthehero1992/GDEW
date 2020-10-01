@@ -1,7 +1,6 @@
 This is library for GDEW/Wiveshare displays
 
-
-
+Library for SPI https://github.com/Tickthehero1992/GDESPI
 
 Enums:
 GDEW_RESOLUTION-resolution;
